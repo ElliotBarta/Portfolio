@@ -1,6 +1,16 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
+theme: midnight
+
+title: My Site
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+
 on:
   # Runs on pushes targeting the default branch
   push:
