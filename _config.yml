@@ -1,6 +1,7 @@
 title: My Site
 remote_theme: pages-themes/tactile
-description: "Portfolio for work and school. [About](/about) • [Projects](/projects)"
+description: "Portfolio for work and school"
+baseurl: "/Portfolio"
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
