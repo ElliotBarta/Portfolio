@@ -1,6 +1,5 @@
 title: My Site
-remote_theme: pages-themes/midnight
-
+remote_theme: pages-themes/tactile
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
