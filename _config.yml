@@ -1,5 +1,6 @@
 title: My Site
-theme: midnight
+theme: jekyll-theme-midnight
+remote_theme: pages-themes/midnight
 
 plugins:
   - jekyll-seo-tag
