@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-### [Home](/) &nbsp;&bull;&nbsp; [About Me](/about) &nbsp;&bull;&nbsp; [Projects](/projects)
+### [Home]({{ "/" | relative_url }}) &nbsp;&bull;&nbsp; [About Me]({{ "/about" | relative_url }}) &nbsp;&bull;&nbsp; [Projects]({{ "/projects" | relative_url }})
 ***
 
 # Portfolio
