@@ -1,0 +1,8 @@
+title: My Site
+theme: midnight
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
